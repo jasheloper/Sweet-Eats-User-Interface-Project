@@ -2,7 +2,9 @@
 
 <img src="images/sweeteatsindex.png" width="310" height="310" alt="Sweet Eats index page"> <img src="images/sweeteatscookies.png" width="310" height="310" alt="Sweet eats cookies page">
 
-Minimal Viable Project Tasks + Stretch Tasks
+Minimal Viable Project Tasks + Stretch Tasks <br />
+
+<a href="https://htmlpreview.github.io/?https://github.com/jasheloper/Sweet-Eats-User-Interface-Project/blob/master/index.html" target=_blank>[Full view of this project] </a>
 
 
 # User-Interface---Sweet-Eats-Project
