@@ -1,3 +1,10 @@
+# Final Screenshots
+
+<img src="images/sweeteatsindex.png" alt="Sweet Eats index page"> <img src="images/sweeteatscookies.png" alt="Sweet eats cookies page">
+
+Minimal Viable Project Tasks + Stretch Tasks
+
+
 # User-Interface---Sweet-Eats-Project
 This project is going to explore selectors, inheritance in combination with our new found HTML skills.
 
