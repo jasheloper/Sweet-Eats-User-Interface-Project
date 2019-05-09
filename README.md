@@ -4,7 +4,7 @@
 
 Minimal Viable Project Tasks + Stretch Tasks <br />
 
-<a href="https://htmlpreview.github.io/?https://github.com/jasheloper/Sweet-Eats-User-Interface-Project/blob/master/index.html" target=_blank>[Full view of this project] </a>
+<a href="https://htmlpreview.github.io/?https://github.com/jasheloper/Sweet-Eats-User-Interface-Project/blob/master/index.html" target=_blank> See this project live? </a>
 
 
 # User-Interface---Sweet-Eats-Project
