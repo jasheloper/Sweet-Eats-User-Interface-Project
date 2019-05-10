@@ -32,6 +32,13 @@ body {
     text-align: center;
     color: #ff4d88;
   }
+
+  h1 a {
+    text-decoration: none;
+    color: #ff4d88;
+  }
+
+ 
   
   h2, h3, h4, h5, h6 {
     font-family: 'Gaegu', cursive;
@@ -41,6 +48,8 @@ body {
     font-size: 30px;
     color: #ff6699;
   }
+
+
   
   /*======= Create a selector for ALL p tags in the site to have the following styles: */
   
@@ -94,6 +103,7 @@ body {
   #active2:hover {
      color: black;
   }
+
   
   .container header nav a {
     margin: 0 10px;

@@ -32,6 +32,11 @@ body {
     text-align: center;
     color: #ff4d88;
   }
+
+  h1 a {
+    text-decoration: none;
+    color: #ff4d88;
+  }
   
   h2, h3, h4, h5, h6 {
     font-family: 'Gaegu', cursive;
