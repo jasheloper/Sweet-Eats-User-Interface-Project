@@ -3,7 +3,7 @@
 Minimal Viable Project Tasks + Stretch Tasks <br /><br />
 
 <img src="images/sweatshm.png" alt="Design Screenshot"> <img src="images/sweatscookies.png" alt="Design Screenshot">
-
+<br /><br />
 
 
 # Links
