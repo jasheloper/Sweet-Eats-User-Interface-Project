@@ -1,6 +1,6 @@
 # Final Screenshots
 
-<img src="images/bakehome.png" width="310" height="310" alt="Sweet Eats index page"> <img src="images/bakecookies.png" width="310" height="310" alt="Sweet eats cookies page">
+<img src="images/bakehome.png" width="305" height="305" alt="Sweet Eats index page"> <img src="images/bakecookies.png" width="305" height="305" alt="Sweet eats cookies page">
 
 Minimal Viable Project Tasks + Stretch Tasks <br />
 
