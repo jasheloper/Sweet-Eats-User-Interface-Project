@@ -6,7 +6,7 @@ Minimal Viable Project Tasks + Stretch Tasks <br /><br />
 <br /><br />
 
 
-# Links
+# Project Links
 
 <a href="http://jasheletillman.me/Sweet-Eats-User-Interface-Project/" target=_blank> See this project live? </a>
 
