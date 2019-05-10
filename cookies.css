@@ -22,8 +22,9 @@ body {
     background: #f9f2ec;
   }
   /*======= Create a new universal selector that changes the font color to: #3C373B */
-  
-  
+
+
+
   h1 {
     font-family: 'Patrick Hand', cursive;
     margin: 20px 0;
@@ -43,7 +44,7 @@ body {
     color: #ff4d88;
   }
 
-  
+
   h2, h3, h4, h5, h6 {
     font-family: 'Gaegu', cursive;
     margin-bottom: 0;
@@ -62,9 +63,6 @@ body {
   line-height: 1.4;
   }
   
-  
-  
-  
   /*======= Create a selector for ALL images in the site to have the following styles: */
   
   img {
@@ -72,20 +70,17 @@ body {
   }
   
   img.cookies {
-    width: 180px;
-    height: 180px;
-    margin: 5px 10px; 
+    width: 150px;
+    height: 150px;
     padding: 20px;
     box-sizing: border-box;
-    border-radius: 50%;
+    border-radius: 10%;
   }
   
   p.cookies {
     padding: 25px;
     box-sizing: border-box;
   }
-  
-  
   
   .content-row {
     display: flex;
@@ -155,7 +150,7 @@ body {
   .about {
     margin-top: 20px;
   }
-  
+
   
   .contact-section {
     border-top: 1px dashed black;
@@ -204,7 +199,6 @@ body {
     color: #261a0d;
     text-decoration: underline;
   }
-  
   
   
   footer nav a:first-child {
