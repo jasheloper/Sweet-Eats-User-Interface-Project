@@ -6,6 +6,8 @@ Minimal Viable Project Tasks + Stretch Tasks <br />
 
 <a href="http://jasheletillman.me/Sweet-Eats-User-Interface-Project/" target=_blank> See this project live? </a>
 
+<a href="http://jasheletillman.me/Sweet-Eats-User-Interface-Project/cookies.html" target=_blank> Cookies Page </a>
+
 
 # User-Interface---Sweet-Eats-Project
 This project is going to explore selectors, inheritance in combination with our new found HTML skills.
