@@ -1,8 +1,7 @@
 # Final Screenshots
 
 
-<img src="images/sweatshm.png" alt="Design Screenshot">
-<img src="images/sweatscookies.png" alt="Design Screenshot">
+<img src="images/sweatshm.png" alt="Design Screenshot"> <img src="images/sweatscookies.png" alt="Design Screenshot">
 
 
 Minimal Viable Project Tasks + Stretch Tasks <br />
