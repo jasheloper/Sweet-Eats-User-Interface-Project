@@ -76,6 +76,24 @@ body {
     margin: 0 auto;
     width: 600px;
   }
+
+  #active {
+    background-color: #4d3319;
+    color: #f2e6d9;
+  }
+
+  #active:hover {
+    background: white;
+    color: pink;
+  }
+
+  #active2 {
+    color: #ffcce6;
+  }
+
+  #active2:hover {
+     color: black;
+  }
   
   .container header nav a {
     margin: 0 10px;
@@ -89,7 +107,7 @@ body {
      /*======= create a background property. Set the value to #F87B99 */
     background: #bf8040;
     animation-duration: 4s;
-    animation-iteration-count: 3;
+    animation-iteration-count: 1;
     animation-name: jashele;
   }
   
@@ -107,6 +125,8 @@ body {
     background: white;
     color: pink;
   }
+
+
   
   /*======= Create a selector for the about section to have the following styles: */
   .about {
