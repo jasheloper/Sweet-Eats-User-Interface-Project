@@ -38,6 +38,11 @@ body {
     color: #ff4d88;
   }
 
+  h1 a:visited {
+    text-decoration: none;
+    color: #ff4d88;
+  }
+
  
   
   h2, h3, h4, h5, h6 {
