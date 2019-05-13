@@ -11,14 +11,8 @@ Student should be able to describe and use semantic HTML tags to markup content,
 - Created a cookies page.
 
 
-<<<<<<< HEAD
-<img src="images/sweatshm copy.png
-" alt="Design Screenshot"> <img src="images/sweatscookies copy.png" alt="Design Screenshot">
+<img src="images/sweatshm copy.png" alt="Design Screenshot"> <img src="images/sweatscookies copy.png" alt="Design Screenshot">
 <br /><br />
-=======
-<img src="images/sweatshm.png" alt="Design Screenshot"> <img src="images/sweatscookies.png" alt="Design Screenshot">
->>>>>>> bdb9593f0cae8b928801052efa3b6617167cfbbe
-
 
 <br />
 
