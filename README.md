@@ -1,17 +1,37 @@
-# Final Screenshots
+# Project Details
 
-Minimal Viable Project Tasks + Stretch Tasks <br /><br />
+<b>Objectives:</b><br />
+Student should be able to describe and use semantic HTML tags to markup content, demonstrate the use of CSS selectors to style markup and demonstrate CSS specificity and inheritance to create and update styles
 
+*Completed all Minimal Viable Project Tasks*
+
+<strong>Stretch Tasks:</strong><br />
+- Modified the design.
+- Integrated CSS animations into the navigation.
+- Created a cookies page.
+
+
+<<<<<<< HEAD
 <img src="images/sweatshm copy.png
 " alt="Design Screenshot"> <img src="images/sweatscookies copy.png" alt="Design Screenshot">
 <br /><br />
+=======
+<img src="images/sweatshm.png" alt="Design Screenshot"> <img src="images/sweatscookies.png" alt="Design Screenshot">
+>>>>>>> bdb9593f0cae8b928801052efa3b6617167cfbbe
 
 
-# Links
+<br />
+
+# Project Links
 
 <a href="http://jasheletillman.me/Sweet-Eats-User-Interface-Project/" target=_blank> See this project live? </a>
 
 <a href="http://jasheletillman.me/Sweet-Eats-User-Interface-Project/cookies.html" target=_blank> Cookies Page </a>
+
+
+# Contact Me
+<a href="https://www.linkedin.com/in/jashelet/" target=_blank>LinkedIn</a> • <a href="https://twitter.com/jasheloper" target=_blank>Twitter</a> • <a href="https://www.instagram.com/jasheloper/" target=_blank>Instagram</a> • <a href="mailto:jftjashele@gmail.com" target=_blank>E-mail</a> 
+<br /><br />
 
 
 # User-Interface---Sweet-Eats-Project
