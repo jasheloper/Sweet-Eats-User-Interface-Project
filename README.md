@@ -13,7 +13,6 @@ Student should be able to describe and use semantic HTML tags to markup content,
 
 <img src="images/sweatshm copy.png" alt="Design Screenshot"> <img src="images/sweatscookies copy.png" alt="Design Screenshot">
 
-<br />
 
 # Project Links
 
