@@ -1,10 +1,20 @@
-# Final Screenshots
+# Project Details
 
-Minimal Viable Project Tasks + Stretch Tasks <br /><br />
+<b>Objectives:</b><br />
+Student should be able to describe and use semantic HTML tags to markup content, demonstrate the use of CSS selectors to style markup and demonstrate CSS specificity and inheritance to create and update styles
+
+*Completed all Minimal Viable Project Tasks*
+
+<strong>Stretch Tasks:</strong><br />
+- Modified the design.
+- Integrated CSS animations into the navigation.
+- Created a cookies page.
+
 
 <img src="images/sweatshm.png" alt="Design Screenshot"> <img src="images/sweatscookies.png" alt="Design Screenshot">
-<br /><br />
 
+
+<br />
 
 # Project Links
 
