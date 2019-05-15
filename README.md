@@ -13,7 +13,8 @@ Student should be able to describe and use semantic HTML tags to markup content,
 
 <a href="http://jasheletillman.me/Sweet-Eats-User-Interface-Project/">
   <img src="screenshots/indexscreen.png" alt="sweet eats home">
-</a>
+</a> 
+<br />
 
 <a href="http://jasheletillman.me/Sweet-Eats-User-Interface-Project/cookies.html">
   <img src="screenshots/cookiesscreen.png" alt="sweet eats cookies">
